@@ -16,4 +16,4 @@ Authentication using Python Requests
 SSL Certificate Verification
 
 ## Example 05
-Session Objects
+Session Objectslear
